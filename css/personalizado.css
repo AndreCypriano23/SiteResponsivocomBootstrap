@@ -1,0 +1,166 @@
+nav ul li.menu a{
+    color: #fff !important;  
+}
+
+nav ul li.menu a:hover{
+    color: #e7e7ed !important;  
+}
+
+header{
+    margin-bottom: 56px !important;   
+} 
+.titulo-servicos{
+    color: #252c41;
+    margin-bottom: 40px;
+}
+
+.tamanho-icone{
+    font-size: 68px;
+    color: #2980b9;
+}
+
+.servicos{
+    background-color: #f9faff;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+    padding: 6%;
+}
+
+.card-text{
+    padding: 5%;
+}
+
+
+
+.depoimento{
+    background-color: #194089;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+    padding: 4%;
+}
+
+.titulo-depoimento{
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.desc-depoimento{
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+/* Útimos artigos */
+
+.ult-art{
+    background-color: #f9faff;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+    padding: 6%;
+}
+
+.titulo-ult-art{
+    color: #252c41;
+    margin-bottom: 40px;
+}
+.title-post-home{
+     padding: 5%;
+    
+}
+
+.title-post-home a{
+    color: #252c41;/*Cor mais azulada ao invés de preto */
+    text-decoration: none;
+    
+}
+
+.title-post-home a:hover{
+    color: #0d6efd!important;
+    text-decoration: none;
+}
+
+.rodape{
+    background-color: #3498db;
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+    color: #fff;
+}
+
+.li-footer{
+    display: inline;
+    margin: 5px;
+}
+
+.li-footer a{
+    color: #fff;
+}
+
+.li-footer a:hover{
+    color: black;
+}
+
+/*Sobre empresa */
+
+.sobre-empresa{
+    background-color: #f9faff;   
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+
+.sob-emp-titulo{
+    margin-bottom: 40px;
+    color: #252c41;
+}
+
+/*Contato */
+
+.contato{
+    background-color: #f9faff;   
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+
+.contato-titulo{
+    margin-bottom: 40px;
+    color: #252c41;
+}
+
+/* Blog */
+
+.blog{
+    background-color: #f9faff;   
+    border-radius: 0rem;
+    margin-bottom: 0rem;
+}
+
+.blog-titulo{
+    margin-bottom: 40px;
+    color: #252c41;
+}
+
+
+.blog-post-title a{
+    color: #252c41;/*Cor mais azulada ao invés de preto */
+    text-decoration: none;
+}
+
+.blog-post-title a:hover{
+    color: #0d6efd!important;
+    text-decoration: none;
+}
+
+
+
+.cont-lendo-post{
+    text-decoration: none;
+}
+
+.blog-pagination{
+    margin-bottom: 4rem;
+}
+
+.blog-pagination > .btn{
+    border-radius: 2rem;
+}
+
+
+
